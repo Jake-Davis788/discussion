@@ -7,6 +7,36 @@
         <mxCell id="t0e9Jd_YM9d8HG1uTfqX-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Get online users’ credit card information" vertex="1">
           <mxGeometry height="60" width="120" x="365" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Compromise Web Application" vertex="1">
+          <mxGeometry height="50" width="100" x="110" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Network Interception (AND)" vertex="1">
+          <mxGeometry height="50" width="100" x="375" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Malware Infection (AND)" vertex="1">
+          <mxGeometry height="50" width="100" x="630" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="90" x="40" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="90" x="170" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="90" x="320" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="90" x="440" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="90" x="590" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="90" x="710" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="40" width="90" x="120" y="470" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
