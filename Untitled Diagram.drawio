@@ -16,49 +16,49 @@
         <mxCell id="t0e9Jd_YM9d8HG1uTfqX-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Malware Infection (AND)" vertex="1">
           <mxGeometry height="50" width="100" x="700" y="150" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SQL Injection" vertex="1">
           <mxGeometry height="40" width="90" x="-40" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="XSS Attack" vertex="1">
           <mxGeometry height="40" width="90" x="170" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="ARP Spoofing" vertex="1">
           <mxGeometry height="40" width="90" x="320" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Packet Sniffing" vertex="1">
           <mxGeometry height="40" width="90" x="440" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Deploy POS Malware" vertex="1">
           <mxGeometry height="40" width="90" x="620" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Gain Internal Access" vertex="1">
           <mxGeometry height="40" width="90" x="790" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Steal session cookies" vertex="1">
           <mxGeometry height="40" width="90" x="120" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Perform actions as user" vertex="1">
           <mxGeometry height="40" width="90" x="220" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Poison ARP cache" vertex="1">
           <mxGeometry height="40" width="90" x="320" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Capture unencrypted traffic" vertex="1">
           <mxGeometry height="40" width="90" x="440" y="410" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Bypass login authentication" vertex="1">
           <mxGeometry height="40" width="90" x="-90" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Extract payment database" vertex="1">
           <mxGeometry height="40" width="90" x="10" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Install memory scraper" vertex="1">
           <mxGeometry height="40" width="90" x="560" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Exfiltrate card data" vertex="1">
           <mxGeometry height="40" width="90" x="670" y="470" as="geometry" />
         </mxCell>
-        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="t0e9Jd_YM9d8HG1uTfqX-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Exploit weak credentials" vertex="1">
           <mxGeometry height="40" width="90" x="790" y="470" as="geometry" />
         </mxCell>
         <mxCell id="t0e9Jd_YM9d8HG1uTfqX-21" edge="1" parent="1" source="t0e9Jd_YM9d8HG1uTfqX-2" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="t0e9Jd_YM9d8HG1uTfqX-1" value="">
